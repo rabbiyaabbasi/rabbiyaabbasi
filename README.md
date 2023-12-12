@@ -3,6 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabbiyaabbasi" alt="rabbiyaabbasi" /></a> </p>
 
+- 🔭 I’m currently working on [Air.ai](https://www.air.ai/)
+
+- 🌱 I’m currently learning **Cloud Computing**
+
+- 👨‍💻 All of my projects are available at [https://github.com/rabbiyaabbasi](https://github.com/rabbiyaabbasi)
+
+- 💬 Ask me about **pytorch,keras,tensorflow**
+
+- ⚡ Fun fact **I am a nerd**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
